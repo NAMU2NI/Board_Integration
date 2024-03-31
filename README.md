@@ -37,13 +37,13 @@ https://docs.aiogram.dev/en/latest/
 
    * Now click on url to access the bot
    * Make sure you collect the access token
-
+   * Use the below access Token in the Telegram Bot Token in the file 
 
 ### Add in .env
 
 ```ini
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+export OPENAI_API_KEY= "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+export TELEGRAM_BOT_TOKEN = "xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
