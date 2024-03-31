@@ -1,5 +1,17 @@
 # Telagram-Bot-using-GenAI
 
+## Objective 
+
+Created a Telegram bot and connected the bot with the Chatgpt 3.5 for quick chat 
+
+
+<img width="339" alt="Telegram_bot" src="https://github.com/NAMU2NI/Telegram_API/assets/92014201/820f5ad9-0ba1-43c3-bd9f-0d34894f5a06">
+
+
+## Architecture 
+
+<img width="558" alt="Platform_Integration" src="https://github.com/NAMU2NI/Telegram_API/assets/92014201/de836965-2504-4780-b10f-2b0e045a3a44">
+
 
 # How to run?
 ### STEPS:
